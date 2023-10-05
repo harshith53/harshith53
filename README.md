@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith53&label=Profile%20views&color=0e75b6&style=flat" alt="harshith53" /> </p>
 
-- 🌱 I’m currently learning **Backend and DSA**
+- 🌱 I’m currently learning **Backend Deveopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshith53](https://github.com/harshith53)
 
