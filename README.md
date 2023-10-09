@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width=1000 height=600 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith53&label=Profile%20views&color=0e75b6&style=flat" alt="harshith53" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith53&label=Profile%20views&color=0e75b6&style=flat"  alt="harshith53" /> </p>
 
 - 🌱 I’m currently learning **Backend Deveopment**
 
