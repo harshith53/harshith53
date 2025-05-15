@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif" />
+<img align="right" alt="coding" width=900 height=500 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p align="center">
@@ -10,32 +10,46 @@
 </p>
 
 ---
-
 ### 🔭 About Me
 
-- 🌱 Currently exploring **Backend Development**  
-- 💻 Most of my projects are available on [GitHub](https://github.com/harshith53)  
+- 👨‍💻 I'm currently working at a **Stealth startup** as a **SDE Intern**, building secure, scalable enterprise-grade interfaces.
+- 🚀 My focus is on building a scalable **SaaS platform** with features like dynamic reporting, Oauth, and integrations with cloud-native technologies 
+- 🌱 Actively learning and improving my skills in **Backend Development** (Next.js, JavaScript, Golang, APIs, Cloud Infrastructure).
+- 🛠️ I love solving real-world problems through clean code, intuitive UI/UX, and full-stack solutions.
+- 💡 Passionate about **cloud cost optimization**, **data visualization**, and developer tooling.
+- 💻 Most of my projects are available on [GitHub](https://github.com/harshith53).
 - 📫 Reach me at: **kharshith53@gmail.com**
+
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/harshithk53" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+
   <a href="https://linkedin.com/in/harshith-k" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+    <a href="https://www.leetcode.com/harshith173" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@harshith53" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+
+<a href="https://app.daily.dev/harshith53" target="_blank">
+  <img src="https://api.daily.dev/devcards?user=harshith53&theme=light" alt="Harshith's Dev Card" height="50" />
+</a>
+
   <a href="https://instagram.com/harshith_k_harsh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/harshith173" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/harshith173" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+
+    <a href="https://twitter.com/harshithk53" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
@@ -44,6 +58,16 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" alt="oauth" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -62,17 +86,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=harshith53&show_icons=true&theme=default" alt="Harshith's GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith53&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith53" alt="GitHub Streak" />
 </p>
+
 
 ---
 
