@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="https://app.daily.dev/harshith53" target="_blank">
-    <img src="https://api.daily.dev/devcards?user=harshith53&theme=light" alt="Harshith's Dev Card" height="50" />
+    <img src="https://api.daily.dev/devcards?user=harshith53&theme=light" alt="" height="50" />
   </a>
 </p>
 
@@ -62,8 +62,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" alt="OAuth" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -82,13 +80,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshith53&show_icons=true&theme=default" alt="Harshith's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith53" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshith53&show_icons=true&theme=default" alt="Harshith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith53" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith53&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith53&layout=compact" alt="Top Languages" width="50%" />
 </p>
 
 ---
