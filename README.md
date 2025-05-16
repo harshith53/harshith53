@@ -17,7 +17,7 @@
 - 🚀 Focused on developing a scalable **SaaS platform** with dynamic reporting, OAuth, and cloud-native integrations.
 - 🌱 Actively learning **Backend Development** (Next.js, JavaScript, Golang, APIs, Cloud Infrastructure).
 - 🛠️ Passionate about clean UI/UX, solving real-world problems, and full-stack development.
-- 💡 Interests include **cloud cost optimization**, **data visualization**, and **developer tooling**.
+- 💡 Interests include **AI**, **cloud computing**, **data visualization**, and **developer tooling**.
 - 💻 Most of my projects are available on [GitHub](https://github.com/harshith53).
 - 📫 Reach me at: **kharshith53@gmail.com**
 
