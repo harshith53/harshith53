@@ -18,6 +18,7 @@
 - 🌱 Actively learning **Backend Development** (Next.js, JavaScript, Golang, APIs, Cloud Infrastructure).
 - 🛠️ Passionate about clean UI/UX, solving real-world problems, and full-stack development.
 - 💡 Interests include **AI**, **cloud computing**, **data visualization**, and **developer tooling**.
+- 🛠️ Experimenting with system design concepts through my [Frontend System Design Featured App](https://frontend-system-design-featured-app.vercel.app) — live and evolving!
 - 💻 Most of my projects are available on [GitHub](https://github.com/harshith53).
 - 📫 Reach me at: **kharshith53@gmail.com**
 
